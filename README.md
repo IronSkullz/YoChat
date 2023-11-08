@@ -1,2 +1,2 @@
 # YoChat
-A webased chatting app
+A webbased chatting app
